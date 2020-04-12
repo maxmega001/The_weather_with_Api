@@ -1,0 +1,14 @@
+body{
+    background:url('https://i.pinimg.com/564x/1d/b0/28/1db02851a9491f85935226dce7271b4e.jpg') center center;
+    background-size: cover;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.dropdown-item:hover{
+    cursor: pointer;
+}
+
+.bg-light{
+    background-color: bisque!important;
+}
