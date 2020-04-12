@@ -17,7 +17,7 @@
 *(Видимость, если есть)
 ***
 ### Демонстрация работы сервиса
-https://drive.google.com/file/d/1OZ5lET7Oh0IsgwqP6y1dmhQkfCjY9gkt/view?usp=sharing
+https://drive.google.com/file/d/1a_ACtiXjwvpC_jgvM1EkF6DbkjdCMC10/view?usp=sharing
 ***
 ### Процесс работы программы
 #### Сервис, показывающий прогноз погоды по желаемому региону:
